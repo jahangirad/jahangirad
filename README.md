@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jahangirad14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q584OYzasENTDHcUU2lciT3_tRR2s2uq/view?usp=sharing](https://drive.google.com/file/d/1Q584OYzasENTDHcUU2lciT3_tRR2s2uq/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sArJ5E7SOj5ZZMIYa-qu1wcM__MqWpij/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

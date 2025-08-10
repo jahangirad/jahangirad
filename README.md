@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-jahangir-alam&label=Profile%20views&color=0e75b6&style=flat" alt="md-jahangir-alam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jahangirad](https://github.com/jahangirad)
+- 👨‍💻 All of my projects are available at [https://github.com/jahangirad](https://github.com/jahangirad?tab=repositories)
 
 - 💬 Ask me about **Flutter, Dart, Android & iOS Apps**
 
 - 📫 How to reach me **jahangirad14@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sArJ5E7SOj5ZZMIYa-qu1wcM__MqWpij/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16dQ0MV3vSx0jklFYWIX6v-MiavncEBk0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
